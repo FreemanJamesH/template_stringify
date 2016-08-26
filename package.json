@@ -12,6 +12,10 @@
     "strings",
     "es6"
   ],
+  "repository": "https://github.com/FreemanJamesH/template_stringify",
   "author": "James Freeman",
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
 }
