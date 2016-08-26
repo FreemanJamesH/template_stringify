@@ -1,0 +1,17 @@
+{
+  "name": "template_stringify",
+  "version": "1.0.0",
+  "description": "A package for converting strings into ES6 template strings.",
+  "main": "./lib/main",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stringify",
+    "template",
+    "strings",
+    "es6"
+  ],
+  "author": "James Freeman",
+  "license": "MIT"
+}
